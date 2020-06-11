@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-08T11:44:44.401Z</updated>
+  <updated>2020-06-11T15:21:00.312Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/06/08/first-page/"/>
     <id>http://yoursite.com/2020/06/08/first-page/</id>
     <published>2020-06-08T11:36:40.000Z</published>
-    <updated>2020-06-08T11:44:44.401Z</updated>
+    <updated>2020-06-11T15:21:00.312Z</updated>
     
     <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><ul><li>1</li><li>2</li><li>3<h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3></li><li>1</li></ul>]]></content>
     
@@ -38,6 +38,10 @@
     </summary>
     
     
+      <category term="text" scheme="http://yoursite.com/categories/text/"/>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
