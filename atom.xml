@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GEZUXIA</title>
+  <title>Yannes Blog</title>
   
-  <subtitle>GEZUXIA BLOG</subtitle>
+  <subtitle>Yannes BLOG</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://orangegzx.github.io/"/>
   <updated>2020-06-11T15:21:00.312Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://orangegzx.github.io/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>first page</title>
-    <link href="http://yoursite.com/2020/06/08/first-page/"/>
-    <id>http://yoursite.com/2020/06/08/first-page/</id>
+    <link href="https://orangegzx.github.io/first-page/"/>
+    <id>https://orangegzx.github.io/first-page/</id>
     <published>2020-06-08T11:36:40.000Z</published>
     <updated>2020-06-11T15:21:00.312Z</updated>
     
@@ -38,17 +38,17 @@
     </summary>
     
     
-      <category term="text" scheme="http://yoursite.com/categories/text/"/>
+      <category term="text" scheme="https://orangegzx.github.io/categories/text/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://orangegzx.github.io/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/06/08/hello-world/"/>
-    <id>http://yoursite.com/2020/06/08/hello-world/</id>
+    <link href="https://orangegzx.github.io/hello-world/"/>
+    <id>https://orangegzx.github.io/hello-world/</id>
     <published>2020-06-08T11:05:24.078Z</published>
     <updated>2020-06-08T11:42:45.455Z</updated>
     
