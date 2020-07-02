@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://orangegzx.github.io/"/>
-  <updated>2020-06-11T15:21:00.312Z</updated>
+  <updated>2020-07-01T10:24:50.388Z</updated>
   <id>https://orangegzx.github.io/</id>
   
   <author>
@@ -17,53 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first page</title>
-    <link href="https://orangegzx.github.io/first-page/"/>
-    <id>https://orangegzx.github.io/first-page/</id>
-    <published>2020-06-08T11:36:40.000Z</published>
-    <updated>2020-06-11T15:21:00.312Z</updated>
+    <title>First Blog</title>
+    <link href="https://orangegzx.github.io/fist-page/"/>
+    <id>https://orangegzx.github.io/fist-page/</id>
+    <published>2020-07-01T09:34:57.000Z</published>
+    <updated>2020-07-01T10:24:50.388Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><ul><li>1</li><li>2</li><li>3<h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3></li><li>1</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;标题一&quot;&gt;&lt;a href=&quot;#标题一&quot; class=&quot;headerlink&quot; title=&quot;标题一&quot;&gt;&lt;/a&gt;标题一&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;1&lt;/li&gt;
-&lt;li&gt;2&lt;/li&gt;
-&lt;li&gt;3&lt;h2 id=&quot;标题二&quot;&gt;&lt;a href=&quot;#标题二&quot; class=&quot;he
-      
-    
-    </summary>
-    
-    
-      <category term="text" scheme="https://orangegzx.github.io/categories/text/"/>
-    
-    
-      <category term="test" scheme="https://orangegzx.github.io/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://orangegzx.github.io/hello-world/"/>
-    <id>https://orangegzx.github.io/hello-world/</id>
-    <published>2020-06-08T11:05:24.078Z</published>
-    <updated>2020-06-08T11:42:45.455Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="被社会正式毒打了两年"><a href="#被社会正式毒打了两年" class="headerlink" title="被社会正式毒打了两年"></a>被社会正式毒打了两年</h2><blockquote><p>阐述一下被社会正式毒打的两年<br>2018-07-01 —— 2020-07-01</p></blockquote><p>今天是7月1日，中国建党日，也是16届的同学们毕业日。<br>两年前的今天，我在拿着毕业证书在现在的公司进行转正手续，然后继续日常工作。<br>现在，我在自己工位上敲着字，记录。</p><p>算起来也就毕业了两年，但是总是感觉工作了好长的时间了呢，可能是因为实习了半年的缘故吧，让时间拉长了半年，但是2年半的时间也不是很长的呀，大概也是上了年纪吧！</p><h2 id="实习那会"><a href="#实习那会" class="headerlink" title="实习那会"></a>实习那会</h2><p>2017年12月4号开始实习。<br>实习前的事情就是面试，到租房。<br>算起来面试也还好，进入面试的好像都拿到了offer。<br>第一个面试是凯捷咨询</p><blockquote><p>第一次英文面试（只会说OK的那种），那时候不知道这是什么公司，后来听说五百强的公司，但是因为某些原因拒绝了；<br>第二个是复星集团offer<br>面试问了不算多的技术问题，可能是因为是女生吧。<br>第三个是汉得公司<br>听说外包<br>第四个面试是DaoCloud（我现在的公司）<br>这个公司可能也是算是缘分吧，我是乱投的，因为JD有很多的English，没仔细看他们的要求，一眼瞟过去，技术要求很高的样子，第一轮电面（是后来我选择DaoCloud后起森和我说电面那个人是他）问了一般般的问题；第二轮面试在公司面试，技术面是luna（很好看的小姐姐，眼睛很大，那时候我还夸了她一句你眼睛好大），技术问题就问了我一两个，领导面（党哥面的），然后HR面。我刚刚上前往上海虹桥站的地铁，HR说给我发了 offer，那时候我想 offer 这么容易拿的吗？？技术问题也没问几个，我就拿了offer？但是那时候对 Docker 和 K8s 相关的技术并不了解甚至未听说过，以及DaoCloud国内独角兽企业。如果我知道那时候我肯定会毫不犹豫选了 DaoCloud 而不是在几个offer徘徊去哪个公司比较好；当我来了 DaoCloud 听了很多人说来这个公司的原因，大多数是为了与某个大佬共事，我也在进来后发现学历这回事，其实学历门槛挺高的，很多人都是硕士博士，我在这里看到了我的学历真的low，让我觉得我的面试上还是掺杂了美貌的成分（很现实的问题，毕竟外貌是给人的第一印象）。选择这个公司是因为这个公司的环境是我想要的，不是传统的办公环境，工业风的那种，加上其他方面（大家都懂的）；来了这里才知道好牛逼的公司</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;被社会正式毒打了两年&quot;&gt;&lt;a href=&quot;#被社会正式毒打了两年&quot; class=&quot;headerlink&quot; title=&quot;被社会正式毒打了两年&quot;&gt;&lt;/a&gt;被社会正式毒打了两年&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;阐述一下被社会正式毒打的两年&lt;br&gt;2018-07
       
     
     </summary>
     
     
+      <category term="Yannes" scheme="https://orangegzx.github.io/categories/Yannes/"/>
+    
+    
+      <category term="Yannes" scheme="https://orangegzx.github.io/tags/Yannes/"/>
     
   </entry>
   
